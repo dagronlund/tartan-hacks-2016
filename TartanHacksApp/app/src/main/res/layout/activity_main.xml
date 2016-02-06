@@ -12,16 +12,7 @@
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="soup &amp; salad"
-        android:id="@+id/button3"
-        android:layout_marginTop="37dp"
-        android:layout_below="@+id/button5"
-        android:layout_centerHorizontal="true" />
-
-    <Button
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="CM Cafe"
+        android:text="Tartan&apos;s pizza"
         android:id="@+id/button2"
         android:layout_above="@+id/button5"
         android:layout_centerHorizontal="true"
@@ -38,18 +29,9 @@
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="salad ratings"
+        android:text="pizza ratings"
         android:id="@+id/button"
         android:layout_below="@+id/textView"
         android:layout_centerHorizontal="true" />
-
-    <Button
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="schatz"
-        android:id="@+id/button4"
-        android:layout_below="@+id/button3"
-        android:layout_centerHorizontal="true"
-        android:layout_marginTop="33dp" />
 
 </RelativeLayout>
