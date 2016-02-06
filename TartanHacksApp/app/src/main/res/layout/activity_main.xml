@@ -12,7 +12,7 @@
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="cm cafe"
+        android:text="CM cafe"
         android:id="@+id/button2"
         android:layout_above="@+id/button5"
         android:layout_centerHorizontal="true"
@@ -29,7 +29,7 @@
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="cafe food ratings"
+        android:text="breakfast/desert ratings"
         android:id="@+id/button"
         android:layout_below="@+id/textView"
         android:layout_centerHorizontal="true" />
@@ -46,26 +46,17 @@
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="selber cafe"
-        android:id="@+id/button4"
-        android:layout_below="@+id/button3"
-        android:layout_alignLeft="@+id/button"
-        android:layout_alignStart="@+id/button"
-        android:layout_marginTop="35dp" />
-
-    <Button
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
         android:text="la prima"
         android:id="@+id/button6"
         android:layout_alignParentBottom="true"
-        android:layout_alignRight="@+id/button4"
-        android:layout_alignEnd="@+id/button4" />
+        android:layout_alignLeft="@+id/button3"
+        android:layout_alignStart="@+id/button3"
+        android:layout_marginBottom="37dp" />
 
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="heinz cafe"
+        android:text="schatz"
         android:id="@+id/button7"
         android:layout_above="@+id/button2"
         android:layout_centerHorizontal="true" />
