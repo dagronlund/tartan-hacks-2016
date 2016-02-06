@@ -12,7 +12,7 @@
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="CM cafe"
+        android:text="chef&apos;s table"
         android:id="@+id/button2"
         android:layout_above="@+id/button5"
         android:layout_centerHorizontal="true"
@@ -21,7 +21,7 @@
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="maggie murph cafe"
+        android:text="take comfort"
         android:id="@+id/button5"
         android:layout_centerVertical="true"
         android:layout_centerHorizontal="true" />
@@ -29,7 +29,7 @@
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="breakfast/desert ratings"
+        android:text="miscellaneous ratings"
         android:id="@+id/button"
         android:layout_below="@+id/textView"
         android:layout_centerHorizontal="true" />
@@ -37,7 +37,7 @@
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="tazza d&apos;oro"
+        android:text="stephanies"
         android:id="@+id/button3"
         android:layout_below="@+id/button5"
         android:layout_centerHorizontal="true"
@@ -46,17 +46,17 @@
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="la prima"
+        android:text=" zebra lounge"
         android:id="@+id/button6"
-        android:layout_alignParentBottom="true"
-        android:layout_alignLeft="@+id/button3"
-        android:layout_alignStart="@+id/button3"
-        android:layout_marginBottom="37dp" />
+        android:layout_marginTop="32dp"
+        android:layout_below="@+id/button3"
+        android:layout_alignLeft="@+id/button5"
+        android:layout_alignStart="@+id/button5" />
 
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="schatz"
+        android:text="gingers"
         android:id="@+id/button7"
         android:layout_above="@+id/button2"
         android:layout_centerHorizontal="true" />
