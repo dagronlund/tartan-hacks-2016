@@ -12,100 +12,36 @@
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="international food ratings"
-        android:id="@+id/button"
-        android:layout_alignTop="@+id/textView"
+        android:text="tartan&apos;s pizza"
+        android:id="@+id/button3"
+        android:layout_marginTop="37dp"
+        android:layout_below="@+id/button5"
         android:layout_centerHorizontal="true" />
 
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="asiana"
-        android:id="@+id/button3"
-        android:layout_below="@+id/button"
-        android:layout_alignRight="@+id/button9"
-        android:layout_alignEnd="@+id/button9"
-        android:layout_marginTop="52dp" />
-
-    <Button
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="rice bowl"
+        android:text="Exchange"
         android:id="@+id/button2"
-        android:layout_below="@+id/button3"
-        android:layout_alignLeft="@+id/button3"
-        android:layout_alignStart="@+id/button3" />
+        android:layout_above="@+id/button5"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="28dp" />
 
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="el gallo de oro"
-        android:id="@+id/button4"
-        android:layout_below="@+id/button11"
-        android:layout_alignLeft="@+id/button10"
-        android:layout_alignStart="@+id/button10" />
-
-    <Button
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="el burrito grande"
+        android:text="Pasta villagio"
         android:id="@+id/button5"
-        android:layout_alignTop="@+id/button4"
-        android:layout_toLeftOf="@+id/button4"
-        android:layout_toStartOf="@+id/button4" />
+        android:layout_centerVertical="true"
+        android:layout_alignLeft="@+id/button"
+        android:layout_alignStart="@+id/button" />
 
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="nakama"
-        android:id="@+id/button6"
-        android:layout_below="@+id/button4"
-        android:layout_alignRight="@+id/button10"
-        android:layout_alignEnd="@+id/button10" />
-
-    <Button
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="stir crazy"
-        android:id="@+id/button7"
-        android:layout_alignTop="@+id/button6"
-        android:layout_alignRight="@+id/button2"
-        android:layout_alignEnd="@+id/button2" />
-
-    <Button
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="taste of india"
-        android:id="@+id/button8"
-        android:layout_below="@+id/button7"
-        android:layout_alignRight="@+id/button6"
-        android:layout_alignEnd="@+id/button6" />
-
-    <Button
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="tartan express"
-        android:id="@+id/button9"
-        android:layout_alignTop="@+id/button8"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true" />
-
-    <Button
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="pomegranate"
-        android:id="@+id/button10"
-        android:layout_above="@+id/button2"
-        android:layout_alignRight="@+id/button"
-        android:layout_alignEnd="@+id/button" />
-
-    <Button
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="evgestos"
-        android:id="@+id/button11"
-        android:layout_below="@+id/button10"
-        android:layout_alignRight="@+id/button10"
-        android:layout_alignEnd="@+id/button10" />
+        android:text="pasta ratings"
+        android:id="@+id/button"
+        android:layout_below="@+id/textView"
+        android:layout_centerHorizontal="true" />
 
 </RelativeLayout>
